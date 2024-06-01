@@ -1,0 +1,2 @@
+# finance.forex
+Educational purposes
